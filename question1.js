@@ -1,4 +1,5 @@
 // Question 1:Create Student Objects
+
 const students = [
   {
     id: 1,
@@ -20,7 +21,7 @@ const students = [
   },
   {
     id: 4,
-    name: "Dapo Abiodun,
+    name: "Dapo Abiodun",
     age: 22,
     grades: [70, 82, 75],
   },
@@ -35,7 +36,7 @@ const students = [
     name: "Lucky Aiyedatiwa",
     age: 21,
     grades: [78, 85, 80],
-  }
+  },
 ];
 
 console.log(students);
